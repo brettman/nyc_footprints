@@ -4,9 +4,6 @@ import (
 	"github.com/gin-gonic/gin"
 )
 
-//fp_user
-//passW0rd!
-
 func main() {
 	router := gin.Default()
 	api := router.Group("/api")
