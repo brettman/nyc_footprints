@@ -1,0 +1,5 @@
+host="localhost"
+port=5432
+user="fp_user"
+password="passW0rd!"
+dbname="footprints"
